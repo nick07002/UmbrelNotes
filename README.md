@@ -1,12 +1,14 @@
-# Project Name
+# Umbrel Notes
 
-This is a repository for 'Project Name'. This file contains tips and notes related to the project.
+This is a repository for 'Umbrel Notes'. This file contains tips and notes related to the project.
 
 ## Tips
 
 Here are some useful tips for working with this project:
 
 - Tip 1
+   ### Run bitcoin-cli command, e.g. (getblockchaininfo)
+   `~/umbrel/scripts/app compose bitcoin exec bitcoind bitcoin-cli getblockchaininfo`
 - Tip 2
 - Tip 3
 
@@ -30,4 +32,3 @@ If you have any questions or comments, please feel free to contact me at:
 
 - Email: example@example.com
 - Twitter: [@example](http://twitter.com/example)
-
