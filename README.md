@@ -10,6 +10,8 @@ Here are some useful tips for working with this project:
    ### Run bitcoin-cli command, e.g. (getblockchaininfo)
    `~/umbrel/scripts/app compose bitcoin exec bitcoind bitcoin-cli getblockchaininfo`
 - Tip 2
+   ### connect bitcoin full node remotely
+   ./ord   --bitcoin-rpc-user umbrel --bitcoin-rpc-pass <PASSWORD> --rpc-url umbrel.local server
 - Tip 3
 
 ## Notes
