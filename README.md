@@ -11,13 +11,13 @@ Here are some useful tips for working with this project:
    `~/umbrel/scripts/app compose bitcoin exec bitcoind bitcoin-cli getblockchaininfo`
 - Tip 2
    ### connect bitcoin full node remotely
-   ./ord   --bitcoin-rpc-user umbrel --bitcoin-rpc-pass <PASSWORD> --rpc-url umbrel.local server
+   `./ord   --bitcoin-rpc-user umbrel --bitcoin-rpc-pass <PASSWORD> --rpc-url umbrel.local server`
 - Tip 3
    ### Corrupted redb
    solution:
     delete corrupted redb file:
     on mac:
-    ~/Library/Application\ Support/ord/
+    `~/Library/Application\ Support/ord/`
 
 ## Notes
 
