@@ -21,6 +21,9 @@ Here are some useful tips for working with this project:
 - Tip 4
   ### Install Ord
   check out this: `https://github.com/ordinals/ord/issues/1379`
+- Tip 5
+  ### Check installed apps
+  `sudo ./umbrel/scripts/app ls-installed`
 
 ## Notes
 
