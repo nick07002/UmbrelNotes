@@ -18,6 +18,9 @@ Here are some useful tips for working with this project:
     delete corrupted redb file:
     on mac:
     `~/Library/Application\ Support/ord/`
+- Tip 4
+  ### Install Ord
+  check out this: `https://github.com/ordinals/ord/issues/1379`
 
 ## Notes
 
